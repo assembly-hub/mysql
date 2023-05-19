@@ -1,6 +1,6 @@
 github.com/assembly-hub/db v1.2.0 h1:OPUmvMgLiIAW2y9WNYj+ES3eOpqbssgAyMypKkCqLeQ=
 github.com/assembly-hub/db v1.2.0/go.mod h1:9+dcqnoroxIHLj6mscB4T6oeEU85yFGahgjl65IKJis=
-github.com/assembly-hub/impl-db-sql v1.2.1 h1:QbUEk/4SoExuYv1aaX0j6Ps61JC76n18+DxVhuUDmq4=
-github.com/assembly-hub/impl-db-sql v1.2.1/go.mod h1:y/3ubm/dY4UVg73M3hxXUX0MtjQGEOLkI+5FfOD+LV8=
+github.com/assembly-hub/impl-db-sql v1.2.2 h1:s6+K7VKw543YNku+ecE7m9S3Zqj3Mu9kjEuF3bb2rJE=
+github.com/assembly-hub/impl-db-sql v1.2.2/go.mod h1:y/3ubm/dY4UVg73M3hxXUX0MtjQGEOLkI+5FfOD+LV8=
 github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
 github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
